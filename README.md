@@ -78,6 +78,3 @@ Features include:
 - User-friendly interface for testing transactions
 - Lightweight machine learning deployment
 
----
-
-## 📁 Project Structure
